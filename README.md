@@ -154,8 +154,8 @@ console.log(...) //error
 避免重复书写
 ```javascript
 function name(n){
-  var n = n ? n : ''; // error
+  n = n ? n : ''; // error
   
-  var n = n || ''; // ok
+  n = n || ''; // ok
 }
 ```
