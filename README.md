@@ -3,7 +3,7 @@
 ### 1. 整体格式（个人常用的一套js代码结构）
 只是提供了一个模块，大家可以发挥自己强大的逻辑，写出更好的框架出来；
 ```javascript
-// 创建viewContent
+// 创建viewController
 var vc = {};
 
 // 创建模块
